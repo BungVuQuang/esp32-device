@@ -1,7 +1,7 @@
 | Supported Targets | ESP32 |
 | ----------------- | ----- |
 
-Link GitHub: https://github.com/BungVuQuang/wsn_gateway
+Link GitHub: https://github.com/BungVuQuang/esp32-device
 # Giới thiệu chung
 Dự án này được viết nhằm mục đích tạo thiết bị đo  khí Gas,cường độ ánh sáng và nhiệt độ và được điều khiển và thu thập bởi gateway
 
